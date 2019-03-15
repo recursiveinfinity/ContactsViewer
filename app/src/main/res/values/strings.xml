@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsViewer</string>
+
+    <string name="grant_permission">Grant Permission</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="permission_dialog_title">Reason for Permissions</string>
+    <string name="permission_rationale">We need access to your Contacts to be able to display them to you</string>
+</resources>
